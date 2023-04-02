@@ -1,0 +1,45 @@
+# Use the hash sign to prefix a comment
+# +---------------- minute (0 - 59)
+# |  +------------- hour (0 - 23)
+# |  |  +---------- day of month (1 - 31)
+# |  |  |  +------- month (1 - 12)
+# |  |  |  |  +---- day of week (0 - 7) (Sunday=0 or 7)
+# |  |  |  |  |
+# *  *  *  *  *  command to be executed
+#--------------------------------------------------------------------------
+
+name: "Information Retrieval"
+on:
+  schedule:
+    - cron: '59 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Collect Project2025 pdf
+    runs-on: ubuntu-latest
+    env:
+        INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        INPUT_SOURCE_DIR: scripts ## existing directory inside the repo
+        INPUT_INSTALL_EXTENSIONS: true
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Update apt
+      run: sudo apt-get update -y
+
+    - name: Install pdftotext
+      run: sudo apt install -y poppler-utils
+
+    - name: Download and process PDF
+      shell: bash
+      run: |
+        # Download working copy
+        wget https://static.project2025.org/2025_MandateForLeadership_FULL.pdf
+        # Check if contents changed
+        diff 2025_MandateForLeadership_FULL.pdf pdf/2025_MandateForLeadership_FULL.pdf || { 
+          echo "New Project2025 PDF version found"
+          mv 2025_MandateForLeadership_FULL.pdf pdf/2025_MandateForLeadership_FULL.pdf
+          pdftotext -layout -nopgbrk pdf/2025_MandateForLeadership_FULL.pdf > txt/pdf/2025_MandateForLeadership_FULL.txt
+          "${INPUT_SOURCE_DIR}"/commit.sh
+        }
