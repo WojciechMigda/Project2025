@@ -867,7 +867,7 @@ Kyle Brosnan, The Heritage Foundation
     Ellie Cohanim, Independent Women’s Forum
     Ezra Cohen
     Elbridge Colby, Marathon Initiative
-    Earl Comstock, White & Case LLP
+    Earl Comstock
     Lisa Correnti, Center for Family and Human Rights (C-Fam)
     Monica Crowley, The Nixon Seminar
 ﻿
@@ -877,7 +877,6 @@ Kyle Brosnan, The Heritage Foundation
 
     Laura Cunliffe, Independent Women’s Forum
     Tom Dans, Amberwave Partners
-    Sohan Dasgupta, Taft Stettinius & Hollister LLP
     Sergio de la Peña
     Chris De Ruyter, National Center for Urban Operations
     Corey DeAngelis, American Federation for Children
@@ -895,12 +894,12 @@ Kyle Brosnan, The Heritage Foundation
     Natalie Dodson, Ethics and Public Policy Center
     Dave Dorey, The Fairness Center
     Max Eden, American Enterprise Institute
+    Troy Edgar, IBM Consulting
 
 
                                     — xxvi —
                                Contributors
 
-Troy Edgar, IBM Consulting
 Joseph Edlow, The Heritage Foundation
 Jen Ehlinger, Booz Allen Hamilton
 John Ehrett, Office of Senator Josh Hawley
@@ -921,12 +920,12 @@ Caleigh Gabel, American Cornerstone Institute
 Christopher Gacek, Family Research Council
 Alexandra Gaiser, River Financial Inc.
 Mario Garza
+Patty-Jane Geller, The Heritage Foundation
 
 
 
 
                                                                       ﻿
-Patty-Jane Geller, The Heritage Foundation
 Andrew Gillen, Texas Public Policy Foundation
 James S. Gilmore III, Gilmore Global Group LLC
 Vance Ginn, Economic Consulting, LLC
@@ -947,12 +946,12 @@ Joe Guy, Club for Growth
 Joseph Guzman
 Amalia Halikias, The Heritage Foundation
 Gene Hamilton, America First Legal Foundation
+Richard Hanania, Center for the Study of Partisanship and Ideology
 
 
                                 — xxvii —
                  Mandate for Leadership: The Conservative Promise
 
-    Richard Hanania, Center for the Study of Partisanship and Ideology
     Simon Hankinson, The Heritage Foundation
     David Harlow
     Derek Harvey, Office of Congressman Devin Nunes
@@ -974,12 +973,12 @@ Gene Hamilton, America First Legal Foundation
     Melanie Israel, The Heritage Foundation
     Ken Ivory, Utah House of Representatives
     Roman Jankowski, The Heritage Foundation
+    Abby Jones
 ﻿
 
 
 
 
-    Abby Jones
     Emilie Kao, Alliance Defending Freedom
     Jared M. Kelson, Boyden Gray & Associates
     Aaron Kheriaty, Ethics and Public Policy Center
@@ -999,12 +998,12 @@ Gene Hamilton, America First Legal Foundation
     James R. Lawrence III, Envisage Law
     Paul Lawrence, Lawrence Consulting
     Nathan Leamer, Targeted Victory
+    David Legates, University of Delaware (Ret.)
 
 
-                                    — xxviii —
+                                   — xxviii —
                               Contributors
 
-David Legates, University of Delaware (Ret.)
 Marlo Lewis, Competitive Enterprise Institute
 Ben Lieberman, Competitive Enterprise Institute
 John Ligon
@@ -1025,12 +1024,12 @@ Cleta Mitchell, Conservative Partnership Institute
 Kevin E. Moley
 Caitlin Moon, American Center for Law & Justice
 Clare Morell, Ethics and Public Policy Center
+Mark Morgan, The Heritage Foundation
 
 
 
 
                                                       ﻿
-Mark Morgan, The Heritage Foundation
 Hunter Morgen, American Cornerstone Institute
 Rachel Morrison, Ethics and Public Policy Center
 Jonathan Moy, The Heritage Foundation
@@ -1051,12 +1050,12 @@ Christopher B. Porter
 Kevin Preskenis, Allymar Health Solutions
 Pam Pryor, National Committee for Religious Freedom
 Thomas Pyle, Institute for Energy Research
+John Ratcliffe, American Global Strategies
 
 
                                — xxix —
                  Mandate for Leadership: The Conservative Promise
 
-    John Ratcliffe, American Global Strategies
     Paul Ray, The Heritage Foundation
     Joseph Reddan, Flexilis Forestry, LLC
     Jay W. Richards, The Heritage Foundation
@@ -1078,12 +1077,12 @@ Thomas Pyle, Institute for Energy Research
     Robby Stephany Saunders, Coalition for a Prosperous America
     David Sauve
     Brett D. Schaefer, The Heritage Foundation
+    Nina Owcharenko Schaefer, The Heritage Foundation
 ﻿
 
 
 
 
-    Nina Owcharenko Schaefer, The Heritage Foundation
     Matt Schuck, American Cornerstone Institute
     Justin Schwab, CGCN Law
     Jon Schweppe, American Principles Project
@@ -1103,12 +1102,12 @@ Thomas Pyle, Institute for Energy Research
     Chris Stanley, Functional Government Initiative
     Paula M. Stannard
     Parker Stathatos, Texas Public Policy Foundation
+    William Steiger, Independent Consultant
 
 
                                     — xxx —
                                 Contributors
 
-William Steiger, Independent Consultant
 Kenny Stein, Institute for Energy Research
 Corey Stewart, Stewart PLLC
 Mari Stull
@@ -1129,12 +1128,12 @@ Clayton Tufts
 Erin Valdez, Texas Public Policy Foundation
 Mark Vandroff
 Jessica M. Vaughan, Center for Immigration Studies
+John “JV” Venable, The Heritage Foundation
 
 
 
 
                                                                           ﻿
-John “JV” Venable, The Heritage Foundation
 Morgan Lorraine Viña, Jewish Institute for National Security of America
 Andrew N. Vollmer, Mercatus Center
 Hans A. von Spakovsky, The Heritage Foundation
@@ -25471,12 +25470,12 @@ icies should be implemented.
     put forward by the recently enacted Respect for Marriage Act.67
 
 l   Protect faith-based grant recipients from religious liberty violations
-    and maintain a biblically based, social science–reinforced definition
+    that maintain a biblically based, social science–reinforced definition
     of marriage and family. Social science reports that assess the objective
     outcomes for children raised in homes aside from a heterosexual, intact
     marriage are clear: All other family forms involve higher levels of instability
     (the average length of same-sex marriages is half that of heterosexual
-    marriages); financial stress or poverty; and poor behavioral, psychological,
+    marriages); financial stress or poverty; or poorer behavioral, psychological,
     or educational outcomes.
 
     For the sake of child well-being, programs should affirm that children
