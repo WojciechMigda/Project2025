@@ -40,6 +40,6 @@ jobs:
         diff 2025_MandateForLeadership_FULL.pdf pdf/2025_MandateForLeadership_FULL.pdf || { 
           echo "New Project2025 PDF version found"
           mv 2025_MandateForLeadership_FULL.pdf pdf/2025_MandateForLeadership_FULL.pdf
-          pdftotext -layout -nopgbrk pdf/2025_MandateForLeadership_FULL.pdf > txt/pdf/2025_MandateForLeadership_FULL.txt
+          pdftotext -layout -nopgbrk pdf/2025_MandateForLeadership_FULL.pdf txt/2025_MandateForLeadership_FULL.txt
           "${INPUT_SOURCE_DIR}"/commit.sh
         }
